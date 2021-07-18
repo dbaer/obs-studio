@@ -87,6 +87,7 @@ apps:
       - removable-media
       - screen-inhibit-control
       - screencast-legacy
+      - system-files
       - system-observe
       - unity7
       - upower-observe
